@@ -1,2 +1,20 @@
-# Quart-Scraping
-This repository will hold all my scraping projects that I make using quart
+## Quart Scraping Setup
+
+1. Download all files:
+   - templates (folder)
+   - config (folder)
+   - app.py (file)
+1. Put all files in a project folder
+1. Navigate to the project folder
+1. Install required libraries:
+    ```bash
+    pip install quart
+    pip install selenium
+    pip install pyyaml
+    pip install colorama
+    ```
+1. Run the `app.py` from the project folder:
+    ```
+    python3 app.py
+    ```
+1. Navigate to http://127.0.0.1:5000
