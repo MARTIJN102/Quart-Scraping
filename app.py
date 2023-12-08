@@ -1,3 +1,5 @@
+# ALL DATA IS SCRAPED FROM: https://www.worldometers.info/
+
 import threading, time, random, yaml
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
