@@ -1,8 +1,8 @@
 ## Quart Scraping Setup
 
 1. Download all files:
-   - `templates/data.html`
    - `config/world_data_v5.yaml`
+   - `templates/data.html`
    - `app.py`
 1. Put all files in a project folder
 1. Navigate to the project folder
