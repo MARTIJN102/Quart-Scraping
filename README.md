@@ -1,20 +1,4 @@
-## Quart Scraping Setup
-
-1. Download all files:
-   - `config/world_data_v5.yaml`
-   - `templates/data.html`
-   - `app.py`
-1. Put all files in a project folder
-1. Navigate to the project folder
-1. Install required libraries:
-    ```bash
-    pip install quart
-    pip install selenium
-    pip install pyyaml
-    pip install colorama
-    ```
-1. Run the `app.py` from the project folder:
-    ```
-    python3 app.py
-    ```
-1. Navigate to http://127.0.0.1:5000
+## Quart Scraping Projects
+---
+Welcome to the repository dedicated to showcasing my Quart Scraping projects. Here, you'll find a diverse array of web scraping endeavors, each uniquely designed to demonstrate the versatility and power of Quart in extracting and processing web data. Whether you're seeking inspiration, looking to collaborate, or just browsing through innovative scraping solutions, this collection is a comprehensive showcase of my work in this exciting field.
+---
